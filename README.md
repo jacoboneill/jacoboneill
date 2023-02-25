@@ -3,12 +3,11 @@
 
 🌱 I am currently learning:
 
-* Python3
-* MicroPython
-* HTML
-* CSS
 * JavaScript
-* NodeJS
-* ExpressJS
-* Mongoose
-* MongoDB
+* ReactJS
+* NextJS
+* Web Hosting
+* Python3
+* MQTT Protocol
+* HTTP Protocol
+* Web Sockets
