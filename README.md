@@ -12,8 +12,8 @@
 	- **Web Hosting and Management**
  	- **[Data Structures and Algorithms](https://roadmap.sh/datastructures-and-algorithms)**
  
-  - 📚 See my [Obsidian Vault](https://github.com/jacoboneill/Obsidian-Vault) to see what I've learnt so far!
-  
+- 📚 See my [Obsidian Vault](https://github.com/jacoboneill/Obsidian-Vault) to see what I've learnt so far!
+
 - 📫 Reach me at **jacoboneill2000@outlook.com**
 
 <br><br>
