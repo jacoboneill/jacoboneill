@@ -1,21 +1,18 @@
 <h1 align="center">Hi 👋, I'm Jacob O'Neill</h1>  
-<h3 align="center">A self-taught graduate learning web development and algorithms</h3>  
+<h3 align="center">A self-taught Software Developer graduate in Live Audio Engineering and Music Production who is currently continuing his studies in Computer Science.</h3>  
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jacoboneill&label=Profile%20views&color=0e75b6&style=flat" alt="jacoboneill" /> </p>  
   
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jacoboneill" alt="jacoboneill" /></a> </p>  
 
-<br><br>
-
-- 🔭 I’m currently working with **Bioscope Technologies on their sensor infrastructure**  
+<br><br> 
   
 - 🌱 I’m currently learning: 
-	- **Computer Science Fundamentals**
-	- **Design Patterns for Humans[\*](https://github.com/kamranahmedse/design-patterns-for-humans/)**
-	- **The Algorithms[\*](https://github.com/TheAlgorithms)**
-	- **C++**
 	- **React**
 	- **Web Hosting and Management**
+ 	- **[Data Structures and Algorithms](https://roadmap.sh/datastructures-and-algorithms)**
+ 
+  - 📚 See my [Obsidian Vault](https://github.com/jacoboneill/Obsidian-Vault) to see what I've learnt so far!
   
 - 📫 Reach me at **jacoboneill2000@outlook.com**
 
