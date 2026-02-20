@@ -25,5 +25,5 @@
 ---
 
 <p align="center">
-Self-taught software developer with a background in audio engineering. I build web applications, infrastructure, and IoT systems — from embedded firmware to full-stack platforms. Currently running <a href="https://www.oneilltech.sh">O'Neill Technology Solutions</a>, delivering web apps, infrastructure, and e-learning systems for non-technical clients.
+Self-taught software developer with a background in audio engineering. I build web applications, infrastructure, and IoT systems — from embedded firmware to full-stack platforms. Currently running <a href="https://www.oneilltech.sh" target="_blank">O'Neill Technology Solutions</a>, delivering web apps, infrastructure, and e-learning systems for non-technical clients.
 </p>
